@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\models\\itemcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\models\\itemcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\models\\itemorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\models\\itemorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\da\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|solutionrelative:da\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456624F5-CF59-43EB-A19B-891E7D947A48}|UITech\\UITech.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\uitech\\uiitemorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456624F5-CF59-43EB-A19B-891E7D947A48}|UITech\\UITech.csproj|solutionrelative:uitech\\uiitemorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\services\\itemorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\services\\itemorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\da\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|solutionrelative:da\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\bl\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C68C6-FDC8-4DD6-963A-F8ADC7C55402}|BL\\BL.csproj|solutionrelative:bl\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\da\\itemorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|solutionrelative:da\\itemorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\da\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|solutionrelative:da\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\da\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ADF4A-77AC-4FFB-B3BC-4816DBD34105}|DA\\DA.csproj|solutionrelative:da\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\gui\\appform\\formvieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|solutionrelative:gui\\appform\\formvieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\gui\\appform\\formvieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|solutionrelative:gui\\appform\\formvieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|e:\\my_semester_6\\bmstu_6_db_course\\lab7\\gui\\appform\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|solutionrelative:gui\\appform\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\gui\\appform\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CE2A881-BF84-47C6-A1CC-B91FD81ED59A}|GUI\\GUI.csproj|solutionrelative:gui\\appform\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 347,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemCart.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\ItemCart.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\ItemCart.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\ItemCart.cs",
+              "RelativeToolTip": "BL\\Models\\ItemCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:14:26.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\Cart.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\Cart.cs",
+              "RelativeToolTip": "BL\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:12:49.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BL\\RepositoryInterfaces\\IProductRepository.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeToolTip": "BL\\RepositoryInterfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:02:48.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\CartRepository.cs",
+              "RelativeDocumentMoniker": "DA\\CartRepository.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\CartRepository.cs",
+              "RelativeToolTip": "DA\\CartRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:46:56.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIItemOrder.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\UITech\\UIItemOrder.cs",
+              "RelativeDocumentMoniker": "UITech\\UIItemOrder.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\UITech\\UIItemOrder.cs",
+              "RelativeToolTip": "UITech\\UIItemOrder.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAEMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:44:27.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemOrderService.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\ItemOrderService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\ItemOrderService.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\ItemOrderService.cs",
+              "RelativeToolTip": "BL\\Services\\ItemOrderService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:43:58.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\OrderService.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BL\\Services\\OrderService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:01:58.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\UserService.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\UserService.cs",
+              "RelativeToolTip": "BL\\Services\\UserService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:21:44.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\ProductService.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BL\\Services\\ProductService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:40:13.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemOrder.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\ItemOrder.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\ItemOrder.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\ItemOrder.cs",
+              "RelativeToolTip": "BL\\Models\\ItemOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:40:08.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\User.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\User.cs",
+              "RelativeToolTip": "BL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:40:05.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\Order.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\BL\\Models\\Order.cs",
+              "RelativeToolTip": "BL\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:39:55.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DA\\OrderRepository.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\OrderRepository.cs",
+              "RelativeToolTip": "DA\\OrderRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:34:31.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DA\\UserRepository.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\UserRepository.cs",
+              "RelativeToolTip": "DA\\UserRepository.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:48:47.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DA\\ProductRepository.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\ProductRepository.cs",
+              "RelativeToolTip": "DA\\ProductRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:17:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemOrderRepository.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\ItemOrderRepository.cs",
+              "RelativeDocumentMoniker": "DA\\ItemOrderRepository.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\DA\\ItemOrderRepository.cs",
+              "RelativeToolTip": "DA\\ItemOrderRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:05:26.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormViewOrders.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormViewOrders.cs",
+              "RelativeDocumentMoniker": "GUI\\AppForm\\FormViewOrders.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormViewOrders.cs",
+              "RelativeToolTip": "GUI\\AppForm\\FormViewOrders.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwDYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:04:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormViewOrders.cs [Design]",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormViewOrders.cs",
+              "RelativeDocumentMoniker": "GUI\\AppForm\\FormViewOrders.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormViewOrders.cs [Design]",
+              "RelativeToolTip": "GUI\\AppForm\\FormViewOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-14T08:04:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "GUI\\AppForm\\FormAdmin.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormAdmin.cs",
+              "RelativeToolTip": "GUI\\AppForm\\FormAdmin.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwFkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:04:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "GUI\\AppForm\\FormAdmin.cs",
+              "ToolTip": "E:\\My_semester_6\\BMSTU_6_DB_COURSE\\Lab7\\GUI\\AppForm\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "GUI\\AppForm\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-14T08:04:17.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
